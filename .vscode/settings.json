@@ -1,0 +1,9 @@
+{
+// 取消自动换行
+"editor.wordWrap": "off",
+// 代码缩进
+"editor.tabSize": 4,
+// 取消每次保存的时候自动格式化
+"editor.formatOnSave": false,
+
+}
